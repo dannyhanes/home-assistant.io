@@ -20,6 +20,7 @@ cover:
   - platform: myq
     username: YOUR_USERNAME
     password: YOUR_PASSWORD
+    type: chamberlain
 ```
 
 {% configuration %}
